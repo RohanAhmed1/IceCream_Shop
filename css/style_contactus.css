@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    height: 75px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    margin: 4px 3px;
+    
+}
+.contactus{
+    color: gold;
+}
+
+header ul{
+    display: flex;
+    list-style: none;
+}
+header li{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+header li:hover{
+    opacity: 0.5;
+}
+header ul li a{
+    color: white;
+    text-decoration: none;
+
+}
+
+
+
+form label{
+    color: rgb(146, 137, 15);
+    font-size: 25px;
+}
+form input{   /*we can direct alll him*/
+    padding: 7px 114px;
+}
+
+#radiobuttons{
+    display: flex;
+}
+#radiobuttons div{
+    margin: 20px;
+    
+}
+
+
+
+
+
+
+
+
+
+footer{
+    background-color: black;
+    height: 75px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+    margin: 4px 3px;
+    
+}
