@@ -38,7 +38,7 @@ header ul li a{
     margin-top: 30px;
     height: 10vh;
     display: flex;
-    align-items: center;   /*align-item work on flex while text-align works on block*/
+    align-items: center; 
     justify-content: center;
     color: rgb(28 1 255);
     border-radius: 5px;
